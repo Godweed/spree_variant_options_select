@@ -12,7 +12,7 @@ Installation
 Add spree_variant_options_select to your Gemfile:
 
 ```ruby
-gem 'spree_variant_options_select'
+gem 'spree_variant_options_select', github: 'KosenkoDmitriy/spree_variant_options_select', branch: '3-0-stable'
 ```
 
 Bundle your dependencies and run the installation generator:
